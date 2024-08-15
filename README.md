@@ -1,5 +1,4 @@
 # Covid-19-Cases-Prediction
-# Covid-19 Cases Prediction with Python
 
 ## Overview
 This project focuses on predicting Covid-19 cases for the next 30 days using Python and machine learning techniques. Predictive models like this one are crucial for understanding the likely spread and impact of infectious diseases, enabling governments and policymakers to make informed decisions and assess the effectiveness of implemented policies.
